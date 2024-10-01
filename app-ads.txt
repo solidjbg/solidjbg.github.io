@@ -1,3 +1,7 @@
+# AdMob
+google.com, pub-6368110831143805, DIRECT, f08c47fec0942fa0
+
+# Unity Ads
 aceinmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER
 adform.com, 716, RESELLER
 admanmedia.com, 2153, RESELLER
